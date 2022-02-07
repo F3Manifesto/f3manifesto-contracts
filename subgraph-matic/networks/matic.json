@@ -1,5 +1,7 @@
 {
   "network": "matic",
   "F3ManifestoAccessControls": "0x57EFaa7190686031267c7412178C0610a0B31Df1",
-  "DigitalaxGarmentNFTStartBlock": 22970204
+  "F3ManifestoAccessControlsStartBlock": 22970204
+  "ManifestoPages": "0xece877B30cF8F46C852b87Ec869A1382c61aD301",
+  "F3ManifestoManifestoPagesStartBlock": 24317852
   }
