@@ -4,4 +4,10 @@
   "F3ManifestoAccessControlsStartBlock": 22970204
   "ManifestoPages": "0xece877B30cF8F46C852b87Ec869A1382c61aD301",
   "F3ManifestoManifestoPagesStartBlock": 24317852
+  "F3MNFT": "0xece877B30cF8F46C852b87Ec869A1382c61aD301",
+  "F3MNFTStartBlock": 26620867
+  "F3MNFTCollection": "0xece877B30cF8F46C852b87Ec869A1382c61aD301",
+  "F3MNFTCollectionStartBlock": 26620896
+  "F3MMarketplace": "0x019e14E4eb7A9bA47BA48aE7ADD21e64E008484e",
+  "F3MMarketplaceStartBlock": 26620162
   }
