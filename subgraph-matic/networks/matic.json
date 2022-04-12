@@ -1,15 +1,21 @@
 {
   "network": "matic",
   "F3ManifestoAccessControls": "0x57EFaa7190686031267c7412178C0610a0B31Df1",
-  "F3ManifestoAccessControlsStartBlock": 22970204
+    "F3ManifestoAccessControlsStartBlock": 22970204
   "ManifestoPages": "0xece877B30cF8F46C852b87Ec869A1382c61aD301",
-  "F3ManifestoManifestoPagesStartBlock": 24317852
+    "F3ManifestoManifestoPagesStartBlock": 24317852
   "F3MNFT": "0x32a89d8c7e511bd3c21d9e4e6ef6044033231490",
-  "F3MNFTStartBlock": 26620867
+    "F3MNFTStartBlock": 26620867
   "F3MNFTCollection": "0x33b97da79fe456d14e4528931c6a013e20b41da8",
-  "F3MNFTCollectionStartBlock": 26620896
+    "F3MNFTCollectionStartBlock": 26620896
   "F3MMarketplace": "0x019e14E4eb7A9bA47BA48aE7ADD21e64E008484e",
-  "F3MMarketplaceStartBlock": 26620162
+    "F3MMarketplaceStartBlock": 26620162
   "F3MIndex": "0xc869f8fdd4825c39726e31e80bc737654192a254",
-  "F3MIndexStartBlock": 26738342
+    "F3MIndexStartBlock": 26738342
+  "F3MIndex": "0xc869f8fdd4825c39726e31e80bc737654192a254",
+    "F3MIndexStartBlock": 26738342
+  "F3MGovernanceToken": "0x14a59458aa3a9355f4B520114A85a24FCA2A5622",
+    "F3MIndexStartBlock": 27051888
+  "TheBakersDozen": "0x39c65C68c20757Ba2f2E043c1A7921eA0E539D6A",
+    "F3MIndexStartBlock": 27052006
   }
