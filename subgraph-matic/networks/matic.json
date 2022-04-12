@@ -12,10 +12,12 @@
     "F3MMarketplaceStartBlock": 26620162
   "F3MIndex": "0xc869f8fdd4825c39726e31e80bc737654192a254",
     "F3MIndexStartBlock": 26738342
-  "F3MIndex": "0xc869f8fdd4825c39726e31e80bc737654192a254",
-    "F3MIndexStartBlock": 26738342
   "F3MGovernanceToken": "0x14a59458aa3a9355f4B520114A85a24FCA2A5622",
-    "F3MIndexStartBlock": 27051888
+    "F3MGovernanceTokenStartBlock": 27051888
   "TheBakersDozen": "0x39c65C68c20757Ba2f2E043c1A7921eA0E539D6A",
-    "F3MIndexStartBlock": 27052006
+    "TheBakersDozenStartBlock": 27052006
+  "CypherKeyAuctionHouse": "0xd8043468FC1Cd73E12A5b75d341b90a96A313063",
+    "CypherKeyAuctionHouseStartBlock": 27057969
+  "CypherKeyToken": "0xddf4716915a0eC8d53D7D486132feC4a8F4c98C8",
+    "CypherKeyTokenStartBlock": 27057959
   }
