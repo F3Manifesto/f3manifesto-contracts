@@ -16,10 +16,10 @@
     "F3MGovernanceTokenStartBlock": 27051888
   "TheBakersDozen": "0x39c65C68c20757Ba2f2E043c1A7921eA0E539D6A",
     "TheBakersDozenStartBlock": 27052006
-  "CypherKeyAuctionHouse": "0xd8043468FC1Cd73E12A5b75d341b90a96A313063",
-    "CypherKeyAuctionHouseStartBlock": 27057969
-  "CypherKeyToken": "0xddf4716915a0eC8d53D7D486132feC4a8F4c98C8",
-    "CypherKeyTokenStartBlock": 27057959
+  "CypherKeyAuctionHouse": "0x857e853217E75ED1bB92961e17EA782541CA380F",
+    "CypherKeyAuctionHouseStartBlock": 27128415
+  "CypherKeyToken": "0xeaF2aC78133b11b55f5D3b8Db9C4faD42aEb902C",
+    "CypherKeyTokenStartBlock": 27128402
   "F3MPopUpMarketplace": "0x641c4edc9ef092c71062fc3426e98125b702ec0a",
     "F3MPopUpMarketplaceStartBlock": 27097394  
   }
